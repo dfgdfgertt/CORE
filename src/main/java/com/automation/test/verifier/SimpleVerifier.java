@@ -4,7 +4,6 @@ public class SimpleVerifier<T> extends AbstractDataVerifier<T> {
 
 	@Override
 	public boolean isOk(T actual) {
-		this.explanation ="See detail in comment";
 
 		T expected = getExpected();
 		msg = String.format("SimpleVerifier: Check objects equal. Expected: %s, actual: %s", expected, actual);
