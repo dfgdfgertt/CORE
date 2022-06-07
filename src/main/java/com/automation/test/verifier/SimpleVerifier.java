@@ -12,6 +12,7 @@ public class SimpleVerifier<T> extends AbstractDataVerifier<T> {
 		} else {		
 			return actual == expected;
 		}
+
 	}
 
 	@Override
