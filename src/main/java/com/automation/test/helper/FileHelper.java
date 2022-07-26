@@ -31,8 +31,12 @@ public class FileHelper {
 	}
 
 
-	public String getFileContent(String filePath) throws IOException {
-		return FileUtils.readFileToString(new File(filePath), StandardCharsets.UTF_8);
+	public String getFileContent(String filePath){
+		try {
+			return FileUtils.readFileToString(new File(filePath), StandardCharsets.UTF_8);
+		} catch (IOException e) {
+			throw new RuntimeException("Can not read file content: \n" + filePath,e);
+		}
 	}
 
 	/**
