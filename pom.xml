@@ -8,7 +8,7 @@
     <artifactId>core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>test-framework</name>
-    <description>Advantco adapter test framework</description>
+    <description>Core test framework</description>
     <repositories>
         <repository>
             <id>bad.robot</id>
