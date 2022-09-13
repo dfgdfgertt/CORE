@@ -1,6 +1,6 @@
 package com.automation.test.core.unittest;
 
-import com.automation.test.helper.FileHelper;
+import com.automation.test.publisher.helper.FileHelper;
 import com.automation.test.reader.PlainTextFileReader;
 import com.automation.test.verifier.FileExistenceVerifier;
 import org.testng.Assert;

@@ -1,4 +1,4 @@
-package com.automation.test.helper;
+package com.automation.test.publisher.helper;
 
 import com.automation.test.exception.TestIOException;
 import com.google.common.io.Files;

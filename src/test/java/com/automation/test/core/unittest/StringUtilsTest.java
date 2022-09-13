@@ -1,6 +1,6 @@
 package com.automation.test.core.unittest;
 
-import com.automation.test.helper.StringUtils;
+import com.automation.test.publisher.helper.StringUtils;
 import com.google.common.base.Strings;
 import org.testng.Assert;
 import org.testng.annotations.Test;

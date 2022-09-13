@@ -1,4 +1,4 @@
-package com.automation.test.helper;
+package com.automation.test.publisher.helper;
 
 import org.apache.commons.io.IOUtils;
 

@@ -1,6 +1,6 @@
 package com.automation.test.define;
 
-import com.automation.test.helper.StringUtils;
+import com.automation.test.publisher.helper.StringUtils;
 import com.google.common.base.Strings;
 import org.testng.ITestResult;
 

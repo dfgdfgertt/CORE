@@ -3,7 +3,7 @@ package com.automation.test.core.unittest;
 import com.automation.test.TestAction;
 import com.automation.test.TestCase;
 import com.automation.test.TestVerification;
-import com.automation.test.helper.FileHelper;
+import com.automation.test.publisher.helper.FileHelper;
 import com.automation.test.publisher.PlainTextFilePublisher;
 import com.automation.test.reader.PlainTextFileReader;
 import com.automation.test.report.CustomReporter;

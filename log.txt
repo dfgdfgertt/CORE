@@ -1,0 +1,23 @@
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:23 - This is ipv6 address: 0000:0000:0000:0000:0000:ffff:0b6f:6f0b
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:26 - Convert the above ipv6 to ipv4 address: 11.111.111.11
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:23 - This is ipv6 address: ::ffff:0b6f:6f0b
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:26 - Convert the above ipv6 to ipv4 address: 11.111.111.11
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:23 - This is ipv6 address: 0000:0000:3242:0000:0000:ffff:0b6f:6f0b
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:28 - Can NOT convert the above ipv6 to ipv4 address
+2022-09-13 13:35:45 ERROR IPv4StringBuilder:32 - #$%#$%#$%#$ IP Address error: invalid character number 0
+2022-09-13 13:35:45 DEBUG TestAction:81 - Run verification:
+Reader: class com.automation.test.reader.PlainTextFileReader
+Verifier: class com.automation.test.verifier.SimpleVerifier
+2022-09-13 13:35:46 INFO  ExcelExporter:381 - No expected found:
+2022-09-13 13:35:46 INFO  ExcelExporter:382 - Set cell value as empty string
+2022-09-13 13:35:46 INFO  ExcelExporter:412 - No actual found:
+2022-09-13 13:35:46 INFO  ExcelExporter:416 - Set cell value as empty string
+2022-09-13 13:35:46 ERROR ExcelExporter:446 - Exception while creating Sheet:The workbook already contains a sheet named 'Sample'
+2022-09-13 13:35:46 INFO  ExcelExporter:381 - No expected found:
+2022-09-13 13:35:46 INFO  ExcelExporter:382 - Set cell value as empty string
+2022-09-13 13:35:46 ERROR ExcelExporter:446 - Exception while creating Sheet:The workbook already contains a sheet named 'TestLoop'
+2022-09-13 13:35:46 ERROR ExcelExporter:446 - Exception while creating Sheet:The workbook already contains a sheet named 'TestLoop'
+2022-09-13 13:35:46 INFO  ExcelExporter:381 - No expected found:
+2022-09-13 13:35:46 INFO  ExcelExporter:382 - Set cell value as empty string
+2022-09-13 13:35:46 INFO  ExcelExporter:412 - No actual found:
+2022-09-13 13:35:46 INFO  ExcelExporter:416 - Set cell value as empty string
